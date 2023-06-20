@@ -1,5 +1,5 @@
 1] npm init
 2] https://www.prisma.io/docs/getting-started/quickstart
-3] eslintrc then the eslintrc rule copy in KBPL project In and eslintignore file create
+3] eslintrc then the eslintrc rule copy in KBPL project In and eslintignore file create and .prettierrc
 4] create src folder and readme.md file
 5] 
