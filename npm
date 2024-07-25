@@ -3,3 +3,6 @@ NPM
 1.alert msg toggle
 -> https://www.npmjs.com/package/sweetalert2 (729 kB)
 -> 
+
+2. phonenumber with pincode
+-> https://www.npmjs.com/package/react-phone-input-2
